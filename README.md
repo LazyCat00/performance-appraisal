@@ -6,9 +6,12 @@ c#+sqlserver写的人员绩效的winform窗体（b站入门小demo）
 ## 用户管理
 
 ![](https://github.com/LazyCat00/performance-appraisal/blob/main/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-24%20152513.png)
+<<<<<<< HEAD
 
 ![屏幕截图 2025-02-24 152513](项目演示图/屏幕截图 2025-02-24 152513.png)
 
+=======
+>>>>>>> ed729816671c7a25aae339a73bd1a96370bbe0d8
 ![屏幕截图 2025-02-24 152647](项目演示图/屏幕截图 2025-02-24 152647.png)
 
 ![](https://github.com/LazyCat00/performance-appraisal/blob/main/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-24%20152713.png)
