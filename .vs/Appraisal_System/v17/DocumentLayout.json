@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|c:\\users\\admin\\vs\\appraisal_system\\appraisal_system\\appraisal_system\\formuserappraisaledit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|solutionrelative:appraisal_system\\formuserappraisaledit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05856C6B-14E7-4774-B844-9D48A2DF2060}|Appraisal_System.Models\\Appraisal_System.Models.csproj|C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\appraisal_system.models\\userappraisalcoefficients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05856C6B-14E7-4774-B844-9D48A2DF2060}|Appraisal_System.Models\\Appraisal_System.Models.csproj|solutionrelative:appraisal_system.models\\userappraisalcoefficients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\appraisal_system\\formuserappraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|solutionrelative:appraisal_system\\formuserappraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\appraisal_system\\formuserappraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|solutionrelative:appraisal_system\\formuserappraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\appraisal_system\\formuserappraisaledit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2289CFB-1665-40D5-823A-933258E09183}|Appraisal_System\\Appraisal_System.csproj|solutionrelative:appraisal_system\\formuserappraisaledit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUserAppraisal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisal.cs",
+              "RelativeDocumentMoniker": "Appraisal_System\\FormUserAppraisal.cs",
+              "ToolTip": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisal.cs",
+              "RelativeToolTip": "Appraisal_System\\FormUserAppraisal.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAIwNUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:30:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUserAppraisalEdit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisalEdit.cs",
+              "RelativeDocumentMoniker": "Appraisal_System\\FormUserAppraisalEdit.cs",
+              "ToolTip": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisalEdit.cs",
+              "RelativeToolTip": "Appraisal_System\\FormUserAppraisalEdit.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:03:51.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAppraisalCoefficients.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System.Models\\UserAppraisalCoefficients.cs",
+              "RelativeDocumentMoniker": "Appraisal_System.Models\\UserAppraisalCoefficients.cs",
+              "ToolTip": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System.Models\\UserAppraisalCoefficients.cs",
+              "RelativeToolTip": "Appraisal_System.Models\\UserAppraisalCoefficients.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwGkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:37:47.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUserAppraisal.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisal.cs",
+              "RelativeDocumentMoniker": "Appraisal_System\\FormUserAppraisal.cs",
+              "ToolTip": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisal.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Appraisal_System\\FormUserAppraisal.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:58:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUserAppraisalEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisalEdit.cs",
+              "RelativeDocumentMoniker": "Appraisal_System\\FormUserAppraisalEdit.cs",
+              "ToolTip": "C:\\Users\\Admin\\VS\\Appraisal_System\\Appraisal_System\\Appraisal_System\\FormUserAppraisalEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Appraisal_System\\FormUserAppraisalEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:46:09.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

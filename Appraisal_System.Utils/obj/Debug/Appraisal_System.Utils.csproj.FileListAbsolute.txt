@@ -1,0 +1,6 @@
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\obj\Debug\Appraisal_System.Utils.csproj.AssemblyReference.cache
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\obj\Debug\Appraisal_System.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\bin\Debug\Appraisal_System.Utils.dll
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\bin\Debug\Appraisal_System.Utils.pdb
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\obj\Debug\Appraisal_System.Utils.dll
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Utils\obj\Debug\Appraisal_System.Utils.pdb

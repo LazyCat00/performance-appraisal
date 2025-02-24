@@ -1,0 +1,9 @@
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\bin\Debug\Appraisal_System.Models.dll
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\bin\Debug\Appraisal_System.Models.pdb
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\bin\Debug\Appraisal_System.Utils.dll
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\bin\Debug\Appraisal_System.Utils.pdb
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\obj\Debug\Appraisa.61B552BB.Up2Date
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.dll
+C:\Users\Admin\VS\Appraisal_System\Appraisal_System\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.pdb
